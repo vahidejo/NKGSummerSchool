@@ -6,6 +6,6 @@ The programming language used is Python in the form of Jupyter notebooks. Howeve
 
 Recommended Python distribution see: www.anaconda.com
 
-To take full advantage of the live examples and exercises it is recommended to have access to a working copy of a Python/Jupyter notebook distribution prior to the lecture.
+Note that to take full advantage of the live examples and exercises, it is recommended to have access to a working copy of a Python/Jupyter notebook distribution prior to the lecture.
 
 JGG
