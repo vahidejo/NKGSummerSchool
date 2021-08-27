@@ -4,6 +4,6 @@ This repository contains the supporting material for the morning session "Applie
 
 The programming language used is Python in the form of Jupyter notebooks. However, it should be fairly easy to use MATLAB/Octave as well if that is your preferred programming language for linear algebra.
 
-Note that to take full advantage of the live examples and exercises, it is recommended to have access to a working copy of a Python/Jupyter notebook distribution prior to the lecture. Recommended Python distribution see: www.anaconda.com
+Note that to take full advantage of the live examples and exercises, it is recommended to have access to a working copy of a Python/Jupyter notebook distribution prior to the lecture. Recommended Python distribution: www.anaconda.com
 
 JGG
